@@ -3,14 +3,14 @@ You'll need to set proxy in your command prompt/Terminal whatever the case maybe
 
 For command prompt
 
-  set http_proxy=http://USERNAME:PASSWORD@PROXY_IP:PROXY_PORT
+    set http_proxy=http://USERNAME:PASSWORD@PROXY_IP:PROXY_PORT
 
-  set https_proxy=https://USERNAME:PASSWORD@PROXY_IP:PROXY_PORT
+    set https_proxy=https://USERNAME:PASSWORD@PROXY_IP:PROXY_PORT
 For terminal
 
-  export http_proxy='http://USERNAME:PASSWORD@PROXY_IP:PROXY_PORT/'
+    export http_proxy='http://USERNAME:PASSWORD@PROXY_IP:PROXY_PORT/'
 
-  export https_proxy='https://USERNAME:PASSWORD@PROXY_IP:PROXY_PORT/'
+   export https_proxy='https://USERNAME:PASSWORD@PROXY_IP:PROXY_PORT/'
 
 Run mp3_down.py
 
